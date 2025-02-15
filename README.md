@@ -94,19 +94,20 @@
 </div>
 
 ###
-
+<!--
 <img src="https://raw.githubusercontent.com/nabkar/nabkar/output/snake.svg" alt="Snake animation" />
-
+-->
 ###
 
+<!--
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Nabkar&theme=dark" alt="Layout with last medium posts"  />
 </div>
-
+-->
 ###
 
 <div align="center">
-  <a href="https://imgflip.com/i/9kc9yd"><img src="https://i.imgflip.com/9kc9yd.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
+  <a href="https://imgflip.com/i/9kc9yd"><img src="https://i.imgflip.com/9kc9yd.jpg"/></a>
 </div>
 
 ###
