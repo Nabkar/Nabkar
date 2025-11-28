@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a software developer, frontend enthusiast buy backend professional :)</p>
+<p align="left">I'm a software developer, frontend enthusiast but backend professional :)</p>
 
 ###
 
